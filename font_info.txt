@@ -1,0 +1,9 @@
+The font used in this project is
+"VCR OSD MONO" by Riciery Leal.
+As this font is "Free for Personal Use" I will not be including it in the source for this project.
+/however/ as of 2022/12/13
+you can find information on the font
+Here: https://freefontsfamily.com/vcr-osd-mono-font-family-free-download/
+and a link to the font itself,
+Here: https://www.dafont.com/vcr-osd-mono.font
+
